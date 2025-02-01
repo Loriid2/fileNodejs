@@ -1,0 +1,14 @@
+fase di scrittura del codice
+
+compile time
+	scrivo codice formale dove nella testa simulo un comportamento tramite un processo induttivo
+run time
+	esecuzione , si vedono gli effetti di quello che ho programmato ma non posso apportare modifiche
+	non posso sapere a che punto si trova il programma oppure lo stato delle variabili
+	posso capirlo solo tramite un processo deduttivo a differenza del compile time che è un processo induttivo
+
+tecniche di risoluzione problemi a run time
+-debugger, è uno strumento che compila il codice in modo speciale che permette di tenere traccia dell'esecuzione 
+
+	
+	 
